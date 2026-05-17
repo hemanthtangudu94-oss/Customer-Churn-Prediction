@@ -49,10 +49,10 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| Logistic Regression | - | - | - | - |
-| Decision Tree | - | - | - | - |
-| Random Forest | - | - | - | - |
-| SVM | - | - | - | - |
+| Logistic Regression | 0.815472 | 0.677116 | 0.579088 | 0.624277 |
+| Decision Tree | 0.723208 | 0.478697 | 0.512064 | 0.494819 |
+| Random Forest | 0.797729 | 0.669231 | 0.466488 | 0.549763 |
+| SVM | 0.806955 | 0.684982 | 0.501340 | 0.578947 |
 
 > 📝 Run the notebook to populate the results table with actual values.
 
